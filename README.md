@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there! 😄
+# My name is Sotiris and I am a Computer Science graduate. 
+- My main interests lie in Object Oriented Programming and i primarily write code in Java, although i also have some skills in C and Python.
+- Currently trying to sort out previous projects and create new ones from scratch.
+
+
 
 <!--
 **sotrad/sotrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
